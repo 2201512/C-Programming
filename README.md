@@ -3,7 +3,8 @@ Simple C Programming Assignments and Labs, done for Learning.
 
 Examples of C Progamming Labs Undertaken for learning.
 
-List:
+**List:**
+
 **Assignment 7_ Encryption & Decryption with Pointers**
 
 1. Develop familiarity with basic input and output of data through text files.
